@@ -319,8 +319,51 @@ body{
     .p-90{
         padding: 90px;
     }
-    
+
     .p-100{
         padding: 100px;
     }
+
+    /* MARGIN */
+
+    .m-10{
+        margin: 10px;
+    }
+
+    .m-20{
+        margin: 20px;
+    }
+
+    .m-30{
+        margin: 30px;
+    }
+
+    .m-40{
+        margin: 40px;
+    }
+
+    .m-50{
+        margin: 50px;
+    }
+
+    .m-60{
+        margin: 60px;
+    }
+
+    .m-70{
+        margin: 70px;
+    }
+
+    .m-80{
+        margin: 80px;
+    }
+
+    .m-90{
+        margin: 90px;
+    }
+    
+    .m-100{
+        margin: 100px;
+    }
+
 
