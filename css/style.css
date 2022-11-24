@@ -3,6 +3,10 @@
 
 .row{
     color: #fff;
+}
+
+.homework > .row{
+    
     margin-top: 20px;
 }
 
@@ -14,7 +18,6 @@ section{
     background-color: #006CFA;
     border: 1px solid #fff;
     min-height: 50px;
-    padding: 10px;
 }
 
 .row .nested{
